@@ -24,7 +24,7 @@ Corporate Taxation and Evasion Responses: Evidence from a Minimum Tax in Hondura
 *Abstract: Economic theory of public bureaucracies as complex organizations predicts that bureaucratic productivity can be shaped by the selection of different types of agents, beyond their incentives. This theory applies to the institutions of local government in the developing world, where nationally appointed bureaucrats and locally elected politicians together manage the implementation of public policies and the delivery of services. Yet, there is no evidence on whether (which) selection traits of these bureaucrats and politicians matter for the productivity of local bureaucracies. This paper addresses the empirical gap by gathering rich data in an institutional context of district governments in Uganda, which is typical of the local state in poor countries. The paper measures traits such as the integrity, altruism, personality, and public service motivation of bureaucrats and politicians. It finds robust evidence that higher integrity among locally elected politicians is associated with substantively better delivery of public health services by district bureaucracies. Together with the theory, this evidence suggests that policy makers seeking to build local state capacity in poor countries should take political selection seriously.*
 
 ## Work in Progress
-Targeting in Tax Compliance Interventions: Experimental Evidence from Honduras \[[AEA RCT registry]\](https://www.socialscienceregistry.org/trials/5285) 
+Targeting in Tax Compliance Interventions: Experimental Evidence from Honduras \[[AEA RCT registry](https://www.socialscienceregistry.org/trials/5285)\]
 
 (with Giselle del Carmen and Edgardo Enrique Espinal Hernandez). 
 
@@ -39,14 +39,3 @@ Abstract: The use of letters informing taxpayers about audit probabilities or fi
 "Cyclical Variations in Participation and Employment in Urban Brazil". (with Emmanuel Skoufias and Renata Gukovas). No 24952, World Bank Other Operational Studies, May 2016.
 
 "Investing in people to fight poverty in Haiti: reflections for evidence-based policy making (Haiti Poverty Assessment)". (with Federica Marzo, P. Facundo Cuevas and Natalia Garbiras). December 2014
-
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
