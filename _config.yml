@@ -85,8 +85,8 @@ author:
   bio              : "Testing changing biography"
   location         : "Location"
   employer         :
-  pubmed           : ""
-  googlescholar    : "9a3J5r4AAAAJ"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=9a3J5r4AAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
