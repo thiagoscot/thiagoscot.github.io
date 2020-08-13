@@ -1,15 +1,7 @@
 # main links links
 main:
-<<<<<<< HEAD
   - title: "Research"
     url: /research/
-=======
-  - title: "Home"
-    url: 
-    
-  - title: "Publications"
-    url: /publications/
->>>>>>> f14b745076db19317d95e66269208189de31ad93
 
   #- title: "Talks"
   #  url: /talks/    
@@ -29,4 +21,5 @@ main:
   #- title: "Guide"
   #  url: /markdown/
   
-
+  - title: "Home"
+    url: 
