@@ -3,6 +3,7 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
+linkcolor: red
 ---
 
 ## Working Papers
@@ -26,7 +27,7 @@ Corporate Taxation and Evasion Responses: Evidence from a Minimum Tax in Hondura
 ## Work in Progress
 Targeting in Tax Compliance Interventions: Experimental Evidence from Honduras \[[AEA RCT registry](https://www.socialscienceregistry.org/trials/5285)\] (with Giselle del Carmen and Edgardo Enrique Espinal Hernandez). 
 
-Abstract: The use of letters informing taxpayers about audit probabilities or filing deadlines is popular among tax authorities (TA) and has been shown to positively impact tax compliance. When improvements in information collection are not accompanied by audit capacity, nonetheless, TAs face a credibility issue: informing taxpayers about knowledge of their wrongdoing and not following up by punishing non-compliers erode the credibility of the TA. Jointly with Honduras' Revenue Administration Service (SAR) we will randomize around 30,000 taxpayers into receiving detailed information about the tax authorities' knowledge on their operations before the filing deadline. Using rich administrative data on taxpayers' previous characteristics and behavior, we then aim to estimate heterogeneous treatment and use those to inform future targeting.
+*Abstract: The use of letters informing taxpayers about audit probabilities or filing deadlines is popular among tax authorities (TA) and has been shown to positively impact tax compliance. When improvements in information collection are not accompanied by audit capacity, nonetheless, TAs face a credibility issue: informing taxpayers about knowledge of their wrongdoing and not following up by punishing non-compliers erode the credibility of the TA. Jointly with Honduras' Revenue Administration Service (SAR) we will randomize around 30,000 taxpayers into receiving detailed information about the tax authorities' knowledge on their operations before the filing deadline. Using rich administrative data on taxpayers' previous characteristics and behavior, we then aim to estimate heterogeneous treatment and use those to inform future targeting.*
 
 ## Pre-Doctoral Research
 
